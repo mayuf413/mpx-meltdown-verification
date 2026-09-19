@@ -1,2 +1,2 @@
-# Verified working set (this is exactly what was tested to reproduce the paper's results).
+# Z3 version used for benchmark verification
 z3-solver==4.15.1.0

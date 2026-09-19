@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the software (this repository) and the paper it accompanies (see preferred-citation)."
-title: "Supporting Code for: Invulnerability Checking for Memory Protection Extensions Against Meltdown"
+message: "Please cite this repository and the accompanying paper when using this software."
+title: "Supporting Code for Invulnerability Checking for Memory Protection Extensions Against Meltdown"
 type: software
 authors:
   - family-names: Moshood
@@ -18,16 +18,6 @@ authors:
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/mayuf413/mpx-meltdown-verification"
-# The two fields below are intentionally omitted rather than filled with
-# placeholder text, because placeholder text is not valid CFF (a validator
-# will reject a non-ISO-date `date-released` or a non-DOI
-# `identifiers[].value`). Add each one, in this exact form, once it exists:
-#
-# date-released: "2026-MM-DD"   # the date you tag/publish the GitHub release
-# identifiers:
-#   - type: doi
-#     value: "10.5281/zenodo.XXXXXXX"   # assigned by Zenodo after it archives a release
-#     description: "Zenodo archive of this software release"
 preferred-citation:
   type: conference-paper
   title: "Invulnerability Checking for Memory Protection Extensions Against Meltdown"
@@ -46,6 +36,4 @@ preferred-citation:
       affiliation: North Dakota State University
   collection-title: "2026 IEEE International Symposium on Circuits and Systems (ISCAS)"
   year: 2026
-  start: 2021
-  end: 2025
   doi: "10.1109/ISCAS66217.2026.11562423"
