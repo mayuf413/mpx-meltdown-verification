@@ -1,21 +1,20 @@
-# Python / venv (for the z3-solver pip package)
+# Python environments and cache files
 __pycache__/
 *.pyc
 .venv/
 venv/
 env/
 
-# OS / editor cruft
+# Operating system and editor files
 .DS_Store
 Thumbs.db
 *.swp
 .vscode/
 .idea/
 
-# Local run output
+# Verification output
 *.log
 results/
 
-# Do not commit the publisher-formatted paper PDF (IEEE copyright) —
-# see README "Paper access" section.
+# PDF files
 *.pdf
