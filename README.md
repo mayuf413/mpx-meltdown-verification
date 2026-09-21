@@ -7,6 +7,7 @@ SMT-LIB2 benchmarks accompanying:
 > *2026 IEEE International Symposium on Circuits and Systems (ISCAS)*,
 > 2026.
 > DOI: [10.1109/ISCAS66217.2026.11562423](https://doi.org/10.1109/ISCAS66217.2026.11562423)
+> [![DOI](https://zenodo.org/badge/1373949209.svg)](https://doi.org/10.5281/zenodo.22866112)
 
 The paper is available through the DOI above. See [CITATION.cff](CITATION.cff) for citation details.
 
